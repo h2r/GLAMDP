@@ -1,7 +1,7 @@
 ## Grounded Language + Abstract Markov Decision Processes (GLAMDP)
 
-Code, Datasets, and Supplemental Material for ("Accurately and Efficiently Interpreting Human-Robot Commands
-of Varying Granularities")[https://arxiv.org/abs/1704.06616] by Dilip Arumugam, Siddharth Karamcheti, Nakul Gopalan,
+Code, Datasets, and Supplemental Material for ["Accurately and Efficiently Interpreting Human-Robot Commands
+of Varying Granularities"](https://arxiv.org/abs/1704.06616) by Dilip Arumugam, Siddharth Karamcheti, Nakul Gopalan,
 Lawson L.S. Wong, and Stefanie Tellex.
 
 The repository is structured as follows:
