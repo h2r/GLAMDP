@@ -1,0 +1,1707 @@
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+agentInRoom agent0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsBlue blockInRoom block0 roomIsGreen
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+agentInRoom agent0 roomIsRed
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRoom agent0 roomIsGreen blockInRoom block0 roomIsBlue
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+agentInRegion agent0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsBlue blockInRegion block0 roomIsGreen
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+agentInRegion agent0 roomIsRed
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
+agentInRegion agent0 roomIsGreen blockInRegion block0 roomIsBlue
